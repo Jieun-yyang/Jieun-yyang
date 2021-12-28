@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jieun-yyang
 - 👀 I’m interested in JavaScript, React.
-- 🌱 I’m working as Frontend Developer and Product Manager.
+- 🌱 I work as Frontend Developer and Product Manager.
 - 📫 How to reach me... ---> poohv7@gmail.com
 
 <!---
