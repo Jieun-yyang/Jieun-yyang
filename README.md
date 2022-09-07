@@ -1,4 +1,4 @@
-### 👋 &nbsp;Hi, I’m @Jieun-yyang. I work as Frontend Developer and Product Manager.
+## 👋 &nbsp;Hi, I’m @Jieun-yyang. I work as Frontend Developer and Product Manager.
 
 ### 🛠 &nbsp;My Technical Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -7,7 +7,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 <!-- ![aws](https://img.shields.io/badge/-aws-05122A?style=flat&logo=amazon-aws)&nbsp; -->
-
 ### 💌 &nbsp;Contact me
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poohv7@gmail.com)](mailto:poohv7@gmail.com)
 
