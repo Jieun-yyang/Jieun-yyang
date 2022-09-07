@@ -1,6 +1,6 @@
-👋 Hi, I’m @Jieun-yyang &nbsp;
-🌱 I work as Frontend Developer and Product Manager. &nbsp;
-📫 How to reach me... ---> poohv7@gmail.com &nbsp;
+👋 Hi, I’m @Jieun-yyang
+🌱 I work as Frontend Developer and Product Manager.
+📫 How to reach me... ---> poohv7@gmail.com
 
 ### 🛠 &nbsp;My Technical Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
