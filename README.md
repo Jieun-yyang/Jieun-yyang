@@ -1,4 +1,4 @@
-## JIEUN YANG - Frontend Developer & Product Manager at [Toktokhan Dev](https://www.toktokhan.dev)
+## 🧙 &nbsp;JIEUN YANG - Product Manager at [Toktokhan Dev](https://www.toktokhan.dev) <br>
 ### 🛠 &nbsp;My Technical Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
