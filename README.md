@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hi, I’m @Jieun-yyang. I work as Frontend Developer and Product Manager.
+## 👋 &nbsp;Hi, I’m @Jieun-yyang.<br>I work as Frontend Developer and Product Manager.
 
 ### 🛠 &nbsp;My Technical Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
