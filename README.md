@@ -1,5 +1,4 @@
-## 👋 &nbsp;Hi, I’m @Jieun-yyang.<br>I work as Frontend Developer and Product Manager.
-
+## JIEUN YANG - Frontend Developer & Product Manager at [Toktokhan Dev](https://www.toktokhan.dev)
 ### 🛠 &nbsp;My Technical Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
