@@ -9,7 +9,7 @@
 ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=Git&logoColor=white)
-![aws](https://img.shields.io/badge/-aws-green?style=flat-square&logo=aws&logoColor=white)
+![aws](https://img.shields.io/badge/-aws-green?style=flat-square&logo=AWS&logoColor=white)
 
 ⚙️ TOOLS ⬇️
 
