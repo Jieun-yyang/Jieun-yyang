@@ -1,5 +1,5 @@
 ## 🦹🏻‍♀️ &nbsp;JIEUN YANG - Product Manager at [Toktokhan Dev](https://www.toktokhan.dev) <br>
-### 🛠🎮 &nbsp;TECHS & TOOLS
+### 🛠 &nbsp;TECHS & TOOLS
 🤹‍♀️ SKILLS ⬇️
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
