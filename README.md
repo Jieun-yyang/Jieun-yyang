@@ -1,6 +1,6 @@
 ## 🦹🏻‍♀️ &nbsp;JIEUN YANG - Product Manager at [Toktokhan Dev](https://www.toktokhan.dev) <br>
 ### 🛠 &nbsp;TECHS & TOOLS
-🤹‍♀️ SKILLS ⬇️
+🤹‍♀️ SKILLS ⬇
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=Git&logoColor=white)
 ![aws](https://img.shields.io/badge/-aws-green?style=flat-square&logo=aws&logoColor=white)
 
-⚙️ TOOLS ⬇️
+⚙️ TOOLS 
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Slack](https://img.shields.io/badge/Slack-E01E5A?style=flat-square&logo=Slack)
