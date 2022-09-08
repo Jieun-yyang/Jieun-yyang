@@ -8,8 +8,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![aws](https://img.shields.io/badge/-aws-05122A?style=flat&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=Git&logoColor=white)
+![aws](https://img.shields.io/badge/-Git-green?style=flat-square&logo=aws&logoColor=white)
 
 ⚙️ TOOLS ⬇️
 
