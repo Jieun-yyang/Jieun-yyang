@@ -11,6 +11,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=Git&logoColor=white)
 ![aws](https://img.shields.io/badge/-aws-green?style=flat-square&logo=aws&logoColor=white)
+![vercel](https://img.shields.io/badge/-vercel-pink?style=flat-square&logo=vercel&logoColor=white)
 
 ⚙️ TOOLS 
 
