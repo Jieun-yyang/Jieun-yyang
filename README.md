@@ -17,6 +17,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Slack](https://img.shields.io/badge/Slack-E01E5A?style=flat-square&logo=Slack)
 ![Notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-181717?style=flat-square&logo=Figma&logoColor=pink)
 
 ### 💌 &nbsp;Contact me
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poohv7@gmail.com)](mailto:poohv7@gmail.com)
